@@ -1,0 +1,10 @@
+name = "Helicopter Mod"; 								                                      
+picture = "HelicopterMod/data/helicopter_mod_sib.tga";			                                        
+logoSmall = "HelicopterMod/data/helicopter_mod_sib.tga";	                                            
+logo = "HelicopterMod/data/helicopter_mod_sib.tga";				                                   
+logoOver = "HelicopterMod/data/helicopter_mod_sib.tga";	                                            
+tooltip = "Helicopter MOD by SIBNIC";				                                 
+overview = "This is a collection of copyright mods of the project SIBNIC"; 					
+action = "https://github.com/moddayz";
+author = "SIBNIC";
+version = "6.5";
