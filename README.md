@@ -11,7 +11,7 @@ You can pack it in your workshop if in the description write
 
 >>>>>  The author https://sibnic.info of the mod for free helicopters, there you can download the latest version of the mod. https://sibnic.info/discord we help in installing the mod. <<<<<
 
-If the mod description does not include a link to my github, you forbid repackaging my mod or want to sell my mod, I will consider this a violation and will submit the DMCA.
+If the description of the mod does not contain these links and descriptions, or you forbid the mod to be repackaged or sell my mod, I will consider it a violation and will submit the DMCA. !!
 
 Это бесплатный мод на вертолет для автономной игры Dayz, 
 Вы можете упаковать его в своей мастерской, если в описании напишите:
