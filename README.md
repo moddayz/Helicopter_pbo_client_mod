@@ -18,3 +18,7 @@ The description of the mod in the workshop must contain this text, if it is not 
 
 В описании мода в мастерской должен быть этот текст, если его там нет или вы запрещаете переупаковку мода или продавать мой мод, я сочту это нарушением и отправлю DMCA.
 
+
+
+
+in order for the helicopters to fly, you will also need a server mod https://github.com/moddayz/Helicopter_pbo_server_mod
