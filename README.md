@@ -19,6 +19,7 @@ The description of the mod in the workshop must contain this text, if it is not 
 В описании мода в мастерской должен быть этот текст, если его там нет или вы запрещаете переупаковку мода или продавать мой мод, я сочту это нарушением и отправлю DMCA.
 
 
+If you want to be able to shoot from a helicopter, you need to add this mod too / Если хотите чтоб можно было стрелять из вертолета, вам нужно добавить и этот мод
+https://github.com/moddayz/Shooting_Gunner_Mod_Heli_Boat_Car
 
-
-in order for the helicopters to fly, you will also need a server mod https://github.com/moddayz/Helicopter_pbo_server_mod
+in order for the helicopters to fly, you will also need a server mod / для того, чтобы вертолеты летали, вам также понадобится мод сервера https://github.com/moddayz/Helicopter_pbo_server_mod
