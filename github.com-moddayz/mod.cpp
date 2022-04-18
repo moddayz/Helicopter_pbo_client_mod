@@ -7,4 +7,4 @@ tooltip = "Helicopter MOD by SIBNIC";
 overview = "This is a collection of copyright mods of the project SIBNIC"; 					
 action = "https://github.com/moddayz";
 author = "SIBNIC";
-version = "6.5";
+version = "7.0";
